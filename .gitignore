@@ -1,0 +1,12 @@
+# LaTeX build output
+cv/build/
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+.DS_Store
